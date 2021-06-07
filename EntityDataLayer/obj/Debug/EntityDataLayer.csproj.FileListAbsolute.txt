@@ -1,0 +1,12 @@
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\EntityDataLayer\bin\Debug\EntityDataLayer.dll.config
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\EntityDataLayer\bin\Debug\EntityDataLayer.dll
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\EntityDataLayer\bin\Debug\EntityDataLayer.pdb
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\EntityDataLayer\bin\Debug\EntityFramework.dll
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\EntityDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\EntityDataLayer\bin\Debug\EntityFramework.xml
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\EntityDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\EntityDataLayer\obj\Debug\EntityDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\EntityDataLayer\obj\Debug\EntityDataLayer.csproj.CopyComplete
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\EntityDataLayer\obj\Debug\EntityDataLayer.dll
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\EntityDataLayer\obj\Debug\EntityDataLayer.pdb
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\EntityDataLayer\obj\Debug\EntityDataLayer.csprojAssemblyReference.cache
